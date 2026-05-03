@@ -1,0 +1,8 @@
+export { default as GradientText } from './GradientText.vue'
+export { default as TypewriterText } from './TypewriterText.vue'
+export { default as GlitchText } from './GlitchText.vue'
+export { default as SplitText } from './SplitText.vue'
+export { default as FadeText } from './FadeText.vue'
+export { default as WaveText } from './WaveText.vue'
+export { default as MarqueeText } from './MarqueeText.vue'
+export { default as CountUp } from './CountUp.vue'

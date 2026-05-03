@@ -1,0 +1,13 @@
+:root {
+  --vm-duration: 0.6s;
+  --vm-easing: cubic-bezier(0.25, 0.46, 0.45, 0.94);
+  --vm-color-primary: #6366f1;
+  --vm-color-secondary: #8b5cf6;
+  --vm-color-accent: #06b6d4;
+  --vm-gradient-1: #6366f1;
+  --vm-gradient-2: #8b5cf6;
+  --vm-gradient-3: #06b6d4;
+  --vm-gradient-4: #f43f5e;
+  --vm-particle-color: rgba(99, 102, 241, 0.6);
+  --vm-font-mono: 'JetBrains Mono', 'Fira Code', monospace;
+}
